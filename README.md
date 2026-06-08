@@ -1,19 +1,15 @@
 ﻿# Introduction to Discrete Mathematics for Computer Science (CS 2050)
 
-Discrete mathematics archive for computer science foundations, including proof-oriented homework and problem sets on logic, sets, relations, induction, counting, graphs, and recurrence-style reasoning.
+Coursework archive for Georgia Tech CS 2050, including project, lab, homework, and assignment materials kept for undergraduate education documentation.
 
-## Included Materials
+## Source
 
-- Discrete math homework
-- Written solutions and supporting documents
-- Course problem set artifacts
-
-## Archive Notes
-
-This repository was prepared from a local Georgia Tech coursework folder for documentation and archival purposes. Generated dependency folders, nested Git metadata, local build outputs, compressed archives, and OS metadata were excluded during preparation.
-
-Original local source:
+Original local coursework folder:
 
 ```
 C:\Users\devin\OneDrive\Documents\Georgia_Tech\CS 2050
 ```
+
+## Notes
+
+Generated dependency folders, nested Git metadata, local build outputs, archives, and OS metadata were excluded when this repository was prepared.
